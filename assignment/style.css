@@ -16,16 +16,22 @@ h1 {
         text-align: center;
         padding: 10px;
 }
-
+/* Put a border around your image */
 img {
         margin: 20px;
         border: 10px solid;
         border-color: blue;
         
  }
-
+/* Make your p tag a different color and italic */
  p {
         font-style: italic;
+        color: rgb(43, 0, 255);
+        margin-left: 20px;
+ }
+
+ ul{
+        color: antiquewhite;
  }
 
 footer {width: 100%;
@@ -39,8 +45,8 @@ footer {width: 100%;
 
 
 
-/* Make your p tag a different color and italic */
 
-/* Put a border around your image */
+
+
 
 /* Change the font-family of your list */
