@@ -1,10 +1,40 @@
 /* Give your page a fun background color */
-body {background-color: lightslategrey};
+body {  
+        background: grey;
+        margin: 0px;
+}
 /* Make the header and footer a different color from the background */
-header {color:coral;
+.header { 
+        padding-top: 20px;
+        text-align: center;
+        background: coral;
+        color: white;
+        font-size: 20px;     
+}
+/* Align the h1 containing your name in the center of the header*/
+h1 {
+        text-align: center;
+        padding: 10px;
 }
 
-/* Align the h1 containing your name in the center of the header*/
+img {
+        margin: 20px;
+        border: 10px solid;
+        border-color: blue;
+        
+ }
+
+
+footer {width: 100%;
+        height: 10%;
+        background: coral;
+        position: absolute;
+        bottom: 0;
+        left: 0;
+        right: 0;
+}
+
+
 
 /* Make your p tag a different color and italic */
 
