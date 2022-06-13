@@ -2,7 +2,6 @@
 body {background-color: lightslategrey};
 /* Make the header and footer a different color from the background */
 header {color:coral;
-        ;
 }
 
 /* Align the h1 containing your name in the center of the header*/
