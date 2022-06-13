@@ -23,6 +23,10 @@ img {
         border-color: blue;
 }
 
+h2{
+        margin-left: 20px;
+}
+
 /* Make your p tag a different color and italic */
  p {
         font-style: italic;
