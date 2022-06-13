@@ -32,6 +32,8 @@ img {
 
  ul{
         color: antiquewhite;
+        font-family: 'Courier New', Courier, monospace;
+        width: 50%;
  }
 
 footer {width: 100%;
